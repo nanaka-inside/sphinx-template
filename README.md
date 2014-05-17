@@ -69,6 +69,8 @@ $ ./latex-build.sh
  * 関連してblockdiagの画像挿入がうまくいかないかも
 * 印刷屋に入稿するためのPDFを生成するとき、フォントの埋め込み問題に注意してください
  * くわしくはこちらで　http://www.fugenji.org/~thomas/texlive-guide/font_setup.html
+* 目次や索引は付きません
+ * がんばって！！（おい！！
 
 FAQ
 ====
